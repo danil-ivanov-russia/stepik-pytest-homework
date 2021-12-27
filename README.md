@@ -1,13 +1,13 @@
 # stepik-lesson36-step9
 
-Install deps
+Установка требуемых модулей:
 ```
 pip install -r requirements
 ```
 
-Run tests
+Запуск тестов:
 ```
 pytest test_items.py --language=es -s
 ```
 
-Если язык не указан, по дефолту en
+Если язык не указан, то по умолчанию "en".
